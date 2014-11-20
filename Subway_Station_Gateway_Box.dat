@@ -1,7 +1,7 @@
 Obj=building
 Name=Subway_Station_Gateway_Box
 Type=extension
-enable_pax=1
+enables_pax=1
 Waytype=track
 Level=5
 NoInfo=1
