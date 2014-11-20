@@ -1,12 +1,10 @@
 Obj=building
-Name=Event_Using_Station
+Name=Subway_Station_Gateway_Box
 Type=extension
+enable_pax=1
 Waytype=track
 Level=5
 NoInfo=1
 dims=1,1,4
-BackImage[0][0][0][0][0][0]=Event_Using_Station.0.0
-BackImage[1][0][0][0][0][0]=Event_Using_Station.0.1
-BackImage[2][0][0][0][0][0]=Event_Using_Station.0.2
-BackImage[3][0][0][0][0][0]=Event_Using_Station.0.3
-icon=> Event_Using_Station.1.0
+BackImage[0][0][0][0][0][0]=Subway_Station_Gateway_Box.0.0
+icon=>Subway_Station_Gateway_Icon.0.0
