@@ -1,5 +1,5 @@
 Obj=building
-Name=Subway_Station_Gateway_Single
+Name=Subway_Station_Gateway_Single_S
 Type=extension
 enables_pax=1
 Waytype=track
