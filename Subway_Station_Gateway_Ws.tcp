@@ -15,10 +15,10 @@
             "z": 1
         }, 
         "files": {
-            "datfile_location": "Subway_Station_Gateway_Hs.dat", 
+            "datfile_location": "Subway_Station_Gateway_Ws.dat", 
             "datfile_write": true, 
             "pakfile_location": "", 
-            "pngfile_location": "Subway_Station_Gateway_Hs_Source.png"
+            "pngfile_location": "Subway_Station_Gateway_Ws_Source.png"
         }, 
         "images": [
             [
