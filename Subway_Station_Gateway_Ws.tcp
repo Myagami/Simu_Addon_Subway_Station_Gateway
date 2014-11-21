@@ -5,7 +5,7 @@
             "dat_lump": "Obj=building\nName=Subway_Station_Gateway_Ws\nType=extension\nenables_pax=1\nWaytype=track\nLevel=3\nNoInfo=1\nicon=> Subway_Station_Gateway_Icon.0.3\n"
         }, 
         "dims": {
-            "directions": 1, 
+            "directions": 2, 
             "frames": 1, 
             "frontimage": 0, 
             "paksize": 64, 
@@ -67,7 +67,7 @@
                                 0, 
                                 0
                             ], 
-                            "path": "Subway_Station_Gateway_He.png"
+                            "path": "Subway_Station_Gateway_We.png"
                         }, 
                         {
                             "offset": [
