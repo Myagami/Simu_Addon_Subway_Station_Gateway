@@ -1,6 +1,8 @@
+------
 Obj=building
 Name=Subway_Station_Gateway_Box
 Type=extension
+copyright=M.Yagami
 enables_pax=1
 Waytype=track
 Level=2
@@ -9,3 +11,16 @@ dims=1,1,1
 BackImage[0][0][0][0][0][0]=Subway_Station_Gateway_Box.0.0
 icon=> Subway_Station_Gateway_Icon.0.0
 ------------------------------------
+Obj=building
+Name=Subway_Station_Gateway_Single_S
+Type=extension
+enables_pax=1
+Waytype=track
+Level=5
+NoInfo=1
+dims=1,1,4
+BackImage[0][0][0][0][0][0]=Subway_Station_Gateway_Single_S.0.0
+BackImage[1][0][0][0][0][0]=Subway_Station_Gateway_Single_S.0.1
+BackImage[2][0][0][0][0][0]=Subway_Station_Gateway_Single_S.1.0
+BackImage[3][0][0][0][0][0]=Subway_Station_Gateway_Single_S.1.1
+icon=> Subway_Station_Gateway_Icon.0.2
