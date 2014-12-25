@@ -7,3 +7,6 @@
 
 ●収録内容
 ・Subway_Station_Gateway_Box
+Subway_Station_Gateway_Single_S
+Subway_Station_Gateway_H1
+Subway_Station_Gateway_W1
