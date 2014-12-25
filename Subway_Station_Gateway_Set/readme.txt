@@ -7,6 +7,14 @@
 
 ●収録内容
 ・Subway_Station_Gateway_Box
-Subway_Station_Gateway_Single_S
-Subway_Station_Gateway_H1
-Subway_Station_Gateway_W1
+1x1で立てられる箱型のシンプルな出入り口、4方向から出入りできるようになっています
+
+・Subway_Station_Gateway_Single_S
+1x1で地下鉄出入口定番の階段の出入り口っぽいバージョン、4方向取り揃えています
+
+・Subway_Station_Gateway_H1
+・Subway_Station_Gateway_W1
+なんだかんだで券売機などの設備を地上に持ってきたバージョンです、それぞれ1x2と2x1で立てられます
+
+・Subway_Station_Gateway_SapporoCity_Subway_Default
+札幌市営地下鉄標準型の出入り口っぽいバージョンです（モデル：大通駅）
