@@ -6,3 +6,4 @@
 様々なバリエーションをご用意致しましたので使えるかと思います
 
 ●収録内容
+・Subway_Station_Gateway_Box
