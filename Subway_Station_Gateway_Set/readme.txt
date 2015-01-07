@@ -16,6 +16,4 @@
 ・Subway_Station_Gateway_W1
 券売機などの設備を地上に持ってきたバージョンです、それぞれ1x2と2x1で立てられます
 
-・Subway_Station_Gateway_SapporoCity_Subway_Default
-札幌市営地下鉄標準型の出入り口っぽいバージョンです（モデル：大通駅）
 
