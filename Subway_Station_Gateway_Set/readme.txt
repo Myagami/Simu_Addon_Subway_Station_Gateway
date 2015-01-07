@@ -25,4 +25,4 @@
 
 
 ・Subway_Station_Gateway_TimeTower
-街の小さな時計台をイメージした出入口
+街の小さな時計台をイメージした出入口です
