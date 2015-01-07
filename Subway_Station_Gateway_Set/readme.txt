@@ -19,7 +19,6 @@
 ・Subway_Station_Gateway_H1
 ・Subway_Station_Gateway_H2
 
-
 ・Subway_Station_Gateway_W1
 ・Subway_Station_Gateway_W2
 券売機などの設備を地上に持ってきたバージョンです、それぞれ1x2と2x1で立てられます
