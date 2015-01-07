@@ -10,7 +10,11 @@
 1x1で立てられる箱型のシンプルな出入り口、4方向から出入りできるようになっています
 
 ・Subway_Station_Gateway_Single_S
-1x1で地下鉄出入口定番の階段の出入り口と何かの建物がくっついたバージョン、4方向取り揃えています
+1x1で地下鉄出入口定番の階段の出入り口だけバージョン
+
+・Subway_Station_Gateway_Single_S-EV1
+・Subway_Station_Gateway_Single_S-EV2
+バリアフリーに考慮してエレベーターを付けたバージョン
 
 ・Subway_Station_Gateway_H1
 ・Subway_Station_Gateway_W1
